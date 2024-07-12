@@ -1,0 +1,144 @@
+2024-07-10 17:39:59,965 - INFO - Database initialized successfully.
+2024-07-10 17:44:22,376 - INFO - Database initialized successfully.
+2024-07-10 18:22:40,742 - INFO - Database initialized successfully.
+2024-07-10 18:24:19,442 - INFO - Database initialized successfully.
+2024-07-10 18:26:32,710 - INFO - Database initialized successfully. Admin password: qiB9w1ZCP1Qf
+2024-07-10 18:28:35,293 - INFO - Database initialized successfully. Admin password: DRnp3aH8Iv0O
+2024-07-10 18:34:58,990 - INFO - Database initialized successfully. Admin password: 5pSE8W6fVwya
+2024-07-10 20:04:24,433 - INFO - Database initialized successfully. Admin password: CVHu9x9qDW5Y
+2024-07-10 20:16:18,675 - INFO - Database initialized successfully. Admin password: sO9P4dTzh5Df
+2024-07-10 20:18:11,655 - INFO - Database initialized successfully. Admin password: Z9b4tYSRrtjN
+2024-07-10 20:19:45,186 - INFO - Database initialized successfully. Admin password: pkT3TeS3e4W7
+2024-07-10 20:24:54,390 - INFO - Database initialized successfully. Admin password: Ky3rtTxPCGPe
+2024-07-10 20:26:28,450 - INFO - Database initialized successfully. Admin password: IUYGnsEjX63d
+2024-07-10 20:32:05,848 - INFO - Database initialized successfully. Admin password: hVHkGvlvB3r8
+2024-07-10 20:32:11,033 - INFO - Database initialized successfully. Admin password: I2by2ibtwDnz
+2024-07-10 20:32:14,483 - INFO - Database initialized successfully. Admin password: 95Uk0cL52xqt
+2024-07-10 20:33:22,745 - ERROR - Error adding transportation: Incorrect departure time format, should be YYYY-MM-DD HH:MM:SS
+2024-07-10 20:33:41,788 - ERROR - Error adding transportation: add_transportation() takes 3 positional arguments but 6 were given
+2024-07-10 20:36:10,761 - INFO - Database initialized successfully. Admin password: dBr0POv3RUSm
+2024-07-10 20:36:50,587 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 20:36:50,587 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 20:37:24,082 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 20:37:24,082 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 21:41:46,894 - INFO - Database initialized successfully. Admin password: oBiFJL4bkpOI
+2024-07-10 21:42:22,331 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 21:42:22,331 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 22:19:51,347 - ERROR - Database initialization error: database is locked
+2024-07-10 22:20:22,295 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 22:20:22,295 - ERROR - Error adding transportation: table transportation has no column named departure_time
+2024-07-10 22:25:01,122 - ERROR - Database initialization error: database is locked
+2024-07-10 22:32:44,072 - ERROR - Database initialization error: database is locked
+2024-07-10 22:33:54,827 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:33:54,827 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:38:56,872 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:38:56,872 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:39:46,991 - ERROR - Database initialization error: database is locked
+2024-07-10 22:40:46,907 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:40:46,909 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:45:12,813 - ERROR - Database initialization error: database is locked
+2024-07-10 22:45:55,976 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:45:55,976 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:48:17,563 - ERROR - Database initialization error: database is locked
+2024-07-10 22:48:49,972 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:48:49,972 - ERROR - Error adding transportation: database is locked
+2024-07-10 22:50:32,364 - INFO - Database initialized successfully. Admin password: JJgcwZfMVpSN
+2024-07-10 22:50:59,626 - INFO - Added transportation with vehicle number gffg to fghfg. Status: Scheduled
+2024-07-10 22:52:14,526 - INFO - Database initialized successfully. Admin password: 5p1wD7GDI6AY
+2024-07-11 03:00:12,037 - INFO - Added transportation with vehicle number ytuyt to tyu. Status: In Transit
+2024-07-11 03:02:31,833 - INFO - Database initialized successfully. Admin password: sjGlsf7NB02G
+2024-07-11 03:09:42,488 - INFO - Admin user already exists.
+2024-07-11 03:09:42,488 - INFO - Database initialized successfully.
+2024-07-11 03:53:18,887 - INFO - Admin user already exists.
+2024-07-11 03:53:18,887 - INFO - Database initialized successfully.
+2024-07-11 03:53:56,018 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 03:54:38,422 - INFO - Admin user already exists.
+2024-07-11 03:54:38,422 - INFO - Database initialized successfully.
+2024-07-11 03:54:59,839 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 04:03:02,508 - INFO - Admin user already exists.
+2024-07-11 04:03:02,508 - INFO - Database initialized successfully.
+2024-07-11 04:03:14,115 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 04:05:48,855 - INFO - Admin user already exists.
+2024-07-11 04:05:48,856 - INFO - Database initialized successfully.
+2024-07-11 04:06:01,661 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 04:06:23,326 - INFO - Admin user already exists.
+2024-07-11 04:06:23,326 - INFO - Database initialized successfully.
+2024-07-11 04:06:34,664 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 04:07:26,802 - INFO - Admin user already exists.
+2024-07-11 04:07:26,802 - INFO - Database initialized successfully.
+2024-07-11 04:07:38,158 - ERROR - Error loading transportation records: no such column: date_added
+2024-07-11 04:10:22,278 - INFO - Admin user already exists.
+2024-07-11 04:10:22,278 - INFO - Database initialized successfully.
+2024-07-11 04:11:09,065 - INFO - Updated transportation id 1 to status Scheduled.
+2024-07-11 05:00:35,071 - INFO - Admin user already exists.
+2024-07-11 05:00:35,071 - INFO - Database initialized successfully.
+2024-07-11 05:03:01,919 - INFO - Admin user already exists.
+2024-07-11 05:03:01,920 - INFO - Database initialized successfully.
+2024-07-11 05:03:57,804 - INFO - Admin user already exists.
+2024-07-11 05:03:57,804 - INFO - Database initialized successfully.
+2024-07-11 05:05:30,322 - INFO - Admin user already exists.
+2024-07-11 05:05:30,322 - INFO - Database initialized successfully.
+2024-07-11 05:07:46,748 - INFO - Admin user already exists.
+2024-07-11 05:07:46,748 - INFO - Database initialized successfully.
+2024-07-11 05:22:37,966 - INFO - Admin user already exists.
+2024-07-11 05:22:37,966 - INFO - Database initialized successfully.
+2024-07-11 05:26:19,029 - INFO - Admin user already exists.
+2024-07-11 05:26:19,029 - INFO - Database initialized successfully.
+2024-07-11 05:30:25,530 - INFO - Admin user already exists.
+2024-07-11 05:30:25,530 - INFO - Database initialized successfully.
+2024-07-11 05:46:24,190 - INFO - Admin user already exists.
+2024-07-11 05:46:24,190 - INFO - Database initialized successfully.
+2024-07-11 05:46:53,389 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 05:49:49,749 - INFO - Admin user already exists.
+2024-07-11 05:49:49,749 - INFO - Database initialized successfully.
+2024-07-11 05:50:02,914 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 05:50:29,788 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 05:55:48,294 - INFO - Admin user already exists.
+2024-07-11 05:55:48,294 - INFO - Database initialized successfully.
+2024-07-11 05:56:01,877 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 05:58:22,348 - INFO - Admin user already exists.
+2024-07-11 05:58:22,348 - INFO - Database initialized successfully.
+2024-07-11 05:58:35,958 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 05:58:54,998 - INFO - Admin user already exists.
+2024-07-11 05:58:54,998 - INFO - Database initialized successfully.
+2024-07-11 05:59:07,899 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 18:24:11,434 - INFO - Admin user already exists.
+2024-07-11 18:24:11,434 - INFO - Database initialized successfully.
+2024-07-11 18:24:30,382 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 18:25:48,845 - INFO - Admin user already exists.
+2024-07-11 18:25:48,845 - INFO - Database initialized successfully.
+2024-07-11 18:25:57,693 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 18:33:35,024 - INFO - Admin user already exists.
+2024-07-11 18:33:35,024 - INFO - Database initialized successfully.
+2024-07-11 18:33:46,725 - ERROR - Error loading inventory records: no such column: item_id
+2024-07-11 19:06:34,673 - INFO - Admin user already exists.
+2024-07-11 19:06:34,674 - INFO - Database initialized successfully.
+2024-07-11 19:06:52,618 - INFO - Admin user already exists.
+2024-07-11 19:06:52,618 - INFO - Database initialized successfully.
+2024-07-11 19:08:12,409 - INFO - Admin user already exists.
+2024-07-11 19:08:12,409 - INFO - Database initialized successfully.
+2024-07-11 19:14:39,172 - INFO - Admin user already exists.
+2024-07-11 19:14:39,172 - INFO - Database initialized successfully.
+2024-07-11 19:19:52,686 - INFO - Admin user already exists.
+2024-07-11 19:19:52,686 - INFO - Database initialized successfully.
+2024-07-11 19:22:01,419 - INFO - Admin user already exists.
+2024-07-11 19:22:01,419 - INFO - Database initialized successfully.
+2024-07-11 19:50:01,871 - INFO - Admin user already exists.
+2024-07-11 19:50:01,871 - INFO - Database initialized successfully.
+2024-07-11 19:56:37,114 - INFO - Admin user already exists.
+2024-07-11 19:56:37,115 - INFO - Database initialized successfully.
+2024-07-12 10:13:35,217 - INFO - Admin user already exists.
+2024-07-12 10:13:35,217 - INFO - Database initialized successfully.
+2024-07-12 10:43:46,138 - INFO - Admin user already exists.
+2024-07-12 10:43:46,139 - INFO - Database initialized successfully.
+2024-07-12 10:43:58,826 - INFO - User admin logged in.
+2024-07-12 11:36:55,806 - ERROR - Error adding transportation record: database is locked
+2024-07-12 12:20:41,335 - INFO - Added transportation record with vehicle number d to d. Status: d
+2024-07-12 12:20:49,858 - INFO - Added transportation record with vehicle number d to d. Status: d
+2024-07-12 12:36:21,891 - INFO - Added transportation record with vehicle number sdf to sdf. Status: sdf
+2024-07-12 12:36:24,035 - INFO - Added transportation record with vehicle number sdf to sdf. Status: sdf
+2024-07-12 12:36:24,201 - INFO - Added transportation record with vehicle number sdf to sdf. Status: sdf
+2024-07-12 12:37:12,122 - INFO - Added transportation record with vehicle number 345 to 435. Status: 345
+2024-07-12 12:42:00,582 - INFO - Added transportation record with vehicle number a to a. Status: a
+2024-07-12 12:52:12,635 - INFO - Added transportation record with vehicle number  to . Status: 
+2024-07-12 12:52:16,395 - INFO - Added transportation record with vehicle number s to s. Status: s
